@@ -1,0 +1,35 @@
+* {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+#primero p {
+  color: #0567c2;
+}
+
+#primero p a {
+  color: #e29300;
+}
+
+#primero p em {
+  background-color: #f6f697;
+  color: blue;
+}
+
+.normal em {
+  background-color: black;
+  color: yellow;
+}
+
+.normal span {
+  font-weight: bold;
+}
+
+.normal a {
+  color: #e29300;
+}
+
+.normal .dos em {
+  background-color: white;
+  color: black;
+}
+/*# sourceMappingURL=style.css.map */
